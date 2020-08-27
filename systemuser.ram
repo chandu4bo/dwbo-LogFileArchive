@@ -1,0 +1,4 @@
+D:\dwbo\PsExec64.exe -i -s -d CMD
+
+whoami /user
+D:\dwbo\LogFileArchive\LogFileArchive.bat
